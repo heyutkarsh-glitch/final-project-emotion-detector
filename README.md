@@ -1,7 +1,36 @@
-<h1 align="center"> IBM Full Stack Software Developer Certificate <br> Developing AI Applications with Python and Flask </h1>
+# Final Project
 
-## Emotion Detector
+## Project Name
+**Final Project: Emotion Detector**
 
-This is the final project within the course, "Developing AI Applications with Python and Flask" in the IBM Full Stack Software Developer Certificate. The objective of this project is to develop an AI-based Flask Web Application which will allow a user to provide a text string as input and receive a response from the AI which will tell the user what emotion is being conveyed in that text string.
+## IBM Full Stack Software Developer Certificate
 
-More information about the course can be found [here](https://www.coursera.org/learn/python-project-for-ai-application-development/)
+### Developing AI Applications with Python and Flask
+
+This repository contains the **Final Project** for the IBM course **Developing AI Applications with Python and Flask**.
+
+## Project Description
+
+The Emotion Detector is an AI-based Flask web application that uses the IBM Watson NLP Emotion Prediction API to analyze text and detect emotions.
+
+The application predicts the following emotions:
+
+- Anger
+- Disgust
+- Fear
+- Joy
+- Sadness
+
+It also identifies the **dominant emotion** in the given text.
+
+## Technologies Used
+
+- Python
+- Flask
+- IBM Watson NLP
+- HTML
+- JavaScript
+
+## Author
+
+Utkarsh Mahakale
